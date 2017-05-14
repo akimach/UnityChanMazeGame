@@ -1,6 +1,6 @@
 # UnityChanMazeGame
 
-Maze game with Unity-chan!
+Maze game with Unity-chan! exhibited at [Scratch Day 2017 in Nasu](https://day.scratch.mit.edu/events/3180/)
 
 A game to adventure the automatically generated maze by Unity3D.
 
