@@ -4,6 +4,8 @@ Maze game with Unity-chan!
 
 A game to adventure the automatically generated maze by Unity3D.
 
+[DEMO](https://akimach.github.io/UnityChanMazeGame/)
+
 # Screenshot
 
 ![](https://raw.githubusercontent.com/akimach/UnityChanMazeGame/master/screenshot/start.jpg)
